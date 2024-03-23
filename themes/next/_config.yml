@@ -145,7 +145,7 @@ sidebar:
 avatar:
   # Replace the default image and set the url here.
   #url: /images/avatar.gif
-  url: /images/cszz.jpg
+  url: /images/cszz2.png
   # If true, the avatar will be displayed in circle.
   rounded: false
   # If true, the avatar will be rotated with the cursor.
@@ -160,7 +160,7 @@ site_state: true
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
   GitHub: https://github.com/enzoyes || fab fa-github
-  E-Mail: mailto:yourname@gmail.com || fa fa-envelope
+  E-Mail: chen.guo.long@hotmail.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Twitter: https://twitter.com/yourname || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
