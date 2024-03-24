@@ -1,11 +1,11 @@
-```
+---
 title: namespace原理剖析
 date: 2024-03-24 19:38:00
 categories: 
 - 容器runtime
 tags:
 - namespace
-```
+---
 
 ## namespace是什么？
 
